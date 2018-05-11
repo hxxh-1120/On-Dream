@@ -1,0 +1,56 @@
+body {
+  background: #fff;
+  color: #666666;
+  font-family: "Open Sans", sans-serif;
+}
+#header.header-tou {
+  background: rgba(0, 0, 0, 0.9);
+  padding: 20px 0;
+  height: 72px;
+  transition: all 0.5s;
+}
+
+/*首页开始*/
+.qq{
+	display: block;
+	position: fixed;
+	top:420px;
+	right:0;
+	z-index: 999999;
+}
+/*首页结束*/
+
+/*公司简介-企业招聘开始*/
+.zp{
+	text-align: left;
+	margin-top:20px;
+}
+.rzzg{
+	font-size: 20px;
+	color: #000000;
+	text-align: left;
+}
+.neirong{
+	font-size: 16px;
+	color:#333;
+	line-height: 30px;
+	text-align: left;
+	
+}
+.com-pic{
+	overflow: hidden;
+	width:1500px;
+	height:540px;
+	margin:0 auto;
+}
+
+
+
+
+/*公司简介-企业招聘结束*/
+
+/*软件下载*/
+.chengda{
+	width: 100px;
+	height:180px;
+}
